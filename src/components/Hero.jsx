@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "../styles";
-import { brain, arrowUp } from "../assets";
-import GetStarted from "./GetStarted";
+import { hero, arrowUp } from "../assets";
 
 const Hero = () => {
   return (
@@ -49,7 +48,7 @@ const Hero = () => {
       </div>
       <div className="overflow-x-hidden">
             <img
-              src={brain}
+              src={hero}
               alt="brain art"
               className="relative z-[5] hidden md:block w-[400px]"
             />

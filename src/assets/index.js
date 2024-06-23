@@ -15,11 +15,11 @@ import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import brain from "./brain.png"
 import teacher from './teacher.png'
-import display from "./display.jpg"
+import hero from "./hero.png"
 
 export {
   logo,
-  display,
+  hero,
   teacher,
   brain,
   robot,
