@@ -44,8 +44,12 @@ function Form() {
         required
       >
         <option value="" disabled>Select your role</option>
-        <option value="Primary school teacher">Primary school teacher</option>
-        <option value="High school teacher">High school teacher</option>
+        <option value="Primary School teacher">Primary School Teacher</option>
+        <option value="High School teacher">High School Teacher</option>
+        <option value="Tutor">Tutor</option>
+        <option value="Foreign Language Teacher">Foreign language teacher</option>
+        <option value="University Lecturer / Professor">University Lecturer / Professor</option>
+        <option value="Other">Other</option>
       </select>
       <textarea
         name="message"
