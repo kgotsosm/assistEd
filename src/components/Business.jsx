@@ -28,7 +28,7 @@ const Business = () => {
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           With the demands of handling large workloads, creating lesson plans
-          is a hassle that takes time and is repetitive. Our AI powered platform will plan your lessons so you can focus on getting the most out of your pupils.
+          is a hassle that takes time and is repetitive. <span className="text-yellow-600">assistEd</span> provides an AI powered platform will plan your lessons so you can focus on getting the most out of your pupils.
         </p>
       </div>
 
